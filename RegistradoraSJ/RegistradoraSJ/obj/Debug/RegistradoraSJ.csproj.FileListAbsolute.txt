@@ -1,0 +1,7 @@
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\obj\Debug\RegistradoraSJ.csproj.AssemblyReference.cache
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\obj\Debug\RegistradoraSJ.csproj.CoreCompileInputs.cache
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\bin\Debug\RegistradoraSJ.exe.config
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\bin\Debug\RegistradoraSJ.exe
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\bin\Debug\RegistradoraSJ.pdb
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\obj\Debug\RegistradoraSJ.exe
+C:\Users\monique.ccfernandes\source\repos\RegistradoraSJ\RegistradoraSJ\obj\Debug\RegistradoraSJ.pdb
